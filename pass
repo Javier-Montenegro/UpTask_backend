@@ -1,0 +1,4 @@
+password:Berserk111*
+user: root
+
+mongodb+srv://root:<db_password>@cluster0.r9yul.mongodb.net/
